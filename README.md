@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CODeniel (Daniel Oviedo)
+- 👋 Hi, I’m @dandi10822(Daniel Oviedo)
 - 👀 I’m interested in all, I'm openmind and i would like to learn a lot of all.
 - 🌱 I’m currently learning coding (Java, JavaScript, Python, C++)
 - 💞️ Alura Latam and Sergio Arboleda student
